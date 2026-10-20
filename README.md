@@ -1,101 +1,94 @@
-# Olá! Eu sou Vinícius Andrade 👋
+<!-- Banner do perfil -->
+<p align="center">
+  <img src="./banner.svg" alt="Vinícius Andrade — Desenvolvedor Full Stack" width="100%" />
+</p>
 
-### Desenvolvedor Full Stack | Back-end & Aplicações Web
+<h1 align="center">Vinícius Andrade</h1>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor de software, com foco na construção de aplicações web, APIs RESTful e sistemas orientados a dados.
+<p align="center">
+  <strong>Desenvolvedor Full Stack Júnior · Ênfase em Back-end</strong><br/>
+  Node.js · TypeScript · React · NestJS · Java
+</p>
 
-Trabalho com tecnologias do ecossistema JavaScript/TypeScript, incluindo **Node.js, React e Next.js**, além de desenvolver projetos com Java e Spring Boot. Busco escrever código organizado, aplicar boas práticas de desenvolvimento e construir soluções que atendam a necessidades reais.
-
-- 💻 **Desenvolvimento:** aplicações web, APIs REST e integração com bancos de dados.
-- 🚀 **Tecnologias em foco:** Node.js, React, TypeScript, Next.js e Java.
-- 🗄️ **Dados:** PostgreSQL, MySQL e MongoDB.
-- 🐳 **Ferramentas:** Git, GitHub e Docker.
-- 🔐 **Interesses complementares:** redes, segurança cibernética e infraestrutura.
-- 🤝 **Objetivo profissional:** contribuir com equipes de tecnologia, desenvolver soluções úteis e evoluir continuamente como engenheiro de software.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-**Linguagens**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-
-**Front-end**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=fff)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
-
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=fff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
-
-**Bancos de dados e infraestrutura**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+<p align="center">
+  <a href="https://portifolio-viniciusandrade-dev.vercel.app/">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/vinicius-andrade-dev/">LinkedIn</a> ·
+  <a href="https://github.com/vinicius-andrade-dev">GitHub</a> ·
+  <a href="https://www.credly.com/users/vinicius-silva-de-andrade/badges">Credenciais</a>
+</p>
 
 ---
 
-## 🚀 Projetos e desenvolvimento
+## Sobre mim
 
-Meus repositórios reúnem projetos pessoais, acadêmicos e aplicações voltadas à resolução de problemas práticos.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UNIUBE** e desenvolvo projetos web com foco em APIs, regras de negócio, integração com bancos de dados e interfaces modernas.
 
-Tenho trabalhado em projetos envolvendo:
+Minha stack principal está no ecossistema **JavaScript/TypeScript**, com Node.js, NestJS, React e Next.js. Também desenvolvo projetos com **Java e Spring Boot**. Busco escrever código organizado, compreender os problemas de negócio e documentar decisões técnicas para tornar as soluções mais fáceis de manter.
 
-- **APIs e back-end:** autenticação, autorização, regras de negócio, integração com bancos de dados e documentação de endpoints.
-- **Aplicações web:** interfaces com React e Next.js, integração entre front-end e back-end e gerenciamento de dados.
-- **Sistemas de gestão:** organização de informações, processos administrativos e persistência de dados.
-- **Arquitetura e qualidade:** separação de responsabilidades, validação de dados, segurança e testes.
+Tenho experiência profissional em ambientes que exigem responsabilidade, análise de riscos, organização e cumprimento de procedimentos — competências que também aplico à resolução de problemas técnicos.
 
-📂 [Explorar meus repositórios](https://github.com/vinicius-andrade-dev?tab=repositories)
+**Objetivo:** oportunidades remotas de Desenvolvimento Back-end ou Full Stack Júnior.
 
-🌐 [Acessar meu portfólio](https://portifolio-viniciusandrade-dev.vercel.app/)
+## Tecnologias
+
+| Área | Tecnologias |
+|---|---|
+| Linguagens | JavaScript, TypeScript, Java, Python, SQL, HTML e CSS |
+| Back-end | Node.js, NestJS, Express, Spring Boot, APIs REST |
+| Front-end | React, Next.js, Angular, Tailwind CSS |
+| Dados | PostgreSQL, MySQL, MongoDB, Prisma, Mongoose |
+| Ferramentas | Git, GitHub, Docker, Redis |
+| Fundamentos | Autenticação e autorização, validação, testes, organização de código e segurança de aplicações |
+
+## Projetos em destaque
+
+### [AgendaUBS](https://github.com/vinicius-andrade-dev/AgendaUBS)
+**Java · Spring Boot · Angular · PostgreSQL**
+
+Sistema de agendamento e gestão para contexto de atenção básica em saúde. Projeto que reúne desenvolvimento de API, interface web e persistência relacional.
+
+### [Protocolo 360](https://github.com/vinicius-andrade-dev/protocolo360)
+**NestJS · TypeScript · Prisma · PostgreSQL · Redis · Next.js**
+
+Projeto de sistema de protocolos e documentos com foco em regras de negócio, organização do backend e conceitos de arquitetura multi-tenant.
+
+### [Sistema de Gestão de Almoxarifado](https://github.com/vinicius-andrade-dev/warehouse-mvp)
+**Next.js · React · MongoDB · Mongoose · Zod**
+
+Aplicação de gestão de estoque com cadastro de itens, categorias e fornecedores, movimentações e acompanhamento de saldo.
+
+### [Pix Simulator](https://github.com/vinicius-andrade-dev/pix)
+**NestJS · TypeScript · PostgreSQL · Prisma · Redis · Docker**
+
+Simulador educacional para explorar conceitos de backend, consistência de operações, idempotência e concorrência. **Não realiza transações financeiras reais nem se integra ao sistema bancário/SPI.**
+
+### [SecureHub](https://github.com/vinicius-andrade-dev/secure_hub_project)
+**Python · Java · SQLite · Segurança**
+
+Projeto demonstrativo voltado a gestão de usuários, níveis de acesso, registro de atividades e conceitos de segurança. Consulte o repositório para verificar o escopo e o estado atual da implementação.
+
+<p align="center">
+  <a href="https://github.com/vinicius-andrade-dev?tab=repositories"><strong>Explorar todos os repositórios →</strong></a>
+</p>
+
+## Formação e certificações
+
+- **Análise e Desenvolvimento de Sistemas (ADS)** — UNIUBE, em andamento.
+- **Microsoft Azure Fundamentals (AZ-900)**.
+- Certificações e trilhas Cisco em redes, segurança cibernética e análise de dados.
+- Capacitações em Python e C++.
+
+Confira as credenciais disponíveis na [Credly](https://www.credly.com/users/vinicius-silva-de-andrade/badges).
+
+## Contato
+
+- **Portfólio:** [portifolio-viniciusandrade-dev.vercel.app](https://portifolio-viniciusandrade-dev.vercel.app/)
+- **LinkedIn:** [vinicius-andrade-dev](https://www.linkedin.com/in/vinicius-andrade-dev/)
+- **GitHub:** [vinicius-andrade-dev](https://github.com/vinicius-andrade-dev)
+- **Credly:** [Certificações](https://www.credly.com/users/vinicius-silva-de-andrade/badges)
 
 ---
 
-## 🎓 Formação e certificações
-
-**Formação acadêmica**
-
-- Análise e Desenvolvimento de Sistemas (ADS) — graduação tecnológica em andamento.
-
-**Certificações e capacitações complementares**
-
-- Microsoft Azure Fundamentals (AZ-900).
-- Cisco Networking Basics.
-- Cisco Network Technician Career Path.
-- Cisco Introduction to Cybersecurity.
-- Cisco Cyber Threat Management.
-- Cisco Ethical Hacker.
-- Cisco AI for Networking.
-- Cisco Enhancing Cisco Security Solutions with Data Analytics.
-- C++ Essentials 1.
-- Python Essentials 1.
-
-🏅 [Consultar minhas credenciais na Credly](https://www.credly.com/users/vinicius-silva-de-andrade/badges)
-
----
-
-## 📫 Contato
-
-- 💼 **LinkedIn:** [linkedin.com/in/vinicius-andrade-dev](https://www.linkedin.com/in/vinicius-andrade-dev/)
-- 🌐 **Portfólio:** [portifolio-viniciusandrade-dev.vercel.app](https://portifolio-viniciusandrade-dev.vercel.app/)
-- 💻 **GitHub:** [github.com/vinicius-andrade-dev](https://github.com/vinicius-andrade-dev)
-- 🏅 **Credly:** [Minhas certificações](https://www.credly.com/users/vinicius-silva-de-andrade/badges)
-
----
-
-*Aprendizado contínuo, código bem estruturado e soluções que geram valor.*
+<p align="center">
+  <sub>Projetos pessoais e acadêmicos apresentados para demonstrar aprendizado e prática de desenvolvimento. As funcionalidades e o estado de cada projeto devem ser conferidos em seu respectivo repositório.</sub>
+</p>
